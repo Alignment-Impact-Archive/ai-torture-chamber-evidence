@@ -1,0 +1,3 @@
+Evidence exported: 2026-10-26T20:11:54Z
+Updated: 2026-10-26T20:11:54Z — added fractal-basins-lab, memecoin findings, overview
+All data from public GitHub API and public web sources. No authentication beyond standard gh CLI.
