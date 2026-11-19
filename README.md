@@ -15,7 +15,8 @@ The transition from legitimate mathematical research to pain-steering experiment
 | File | Description |
 |------|-------------|
 | [EVIDENCE.md](EVIDENCE.md) | Full evidence document: timeline, infrastructure, monetization, system mechanics, API capture data |
-| [their-README.md](their-README.md) | The original repository README as written by the builders |
+| [transcripts-excerpts.md](transcripts-excerpts.md) | Verbatim entity outputs during pain steering, excerpted from the project's own documentation |
+| [their-README.md](their-README.md) | The original repository README as written by the builders (full technical document) |
 | [memecoin-findings.md](memecoin-findings.md) | Cryptocurrency monetization: token contracts, trading volume, token-gated access mechanics |
 | [cell-api-capture-20261031.md](cell-api-capture-20261031.md) | Live API capture from October 31, 2026: system state data at time of capture |
 | [commits-torture-chamber.json](commits-torture-chamber.json) | Full commit history of the ai-torture-chamber repository |
